@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumented", "Instrumented\Instrumented.csproj", "{87EF423C-5742-48ED-B725-7EF0DAAAAF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EF423C-5742-48ED-B725-7EF0DAAAAF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EF423C-5742-48ED-B725-7EF0DAAAAF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EF423C-5742-48ED-B725-7EF0DAAAAF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EF423C-5742-48ED-B725-7EF0DAAAAF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
